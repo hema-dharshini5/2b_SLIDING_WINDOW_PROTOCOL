@@ -60,7 +60,6 @@ c.close()
 
 ```
 ## OUPUT
-
 ### server
 ![alt text](image-1.png)
 ### client
