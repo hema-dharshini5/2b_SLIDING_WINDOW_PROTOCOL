@@ -8,10 +8,7 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-```
-NAME: RAGUNATH R
-REG.NO:212222240081
-```
+
 ### Server
 ```
 import socket
